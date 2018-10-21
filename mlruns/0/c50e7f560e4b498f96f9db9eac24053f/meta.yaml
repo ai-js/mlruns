@@ -1,0 +1,14 @@
+artifact_uri: 0/c50e7f560e4b498f96f9db9eac24053f/artifacts
+end_time: 1540107355252
+entry_point_name: ''
+experiment_id: 0
+lifecycle_stage: active
+name: ''
+run_uuid: c50e7f560e4b498f96f9db9eac24053f
+source_name: models/xgb.py
+source_type: 4
+source_version: bfd37e5e754a9c475a6ca4cfe73af78638ee9ea2
+start_time: 1540107355217
+status: 3
+tags: []
+user_id: sergeichip
